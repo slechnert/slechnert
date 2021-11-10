@@ -3,8 +3,8 @@
 ### Open minded, genuinely curious and driven by ideals
 
 ------
-- 🌱 Currently learning about Java, RMDBS & CyberSec
-- 🔭 Working on FractalFX, uploading of finished exercises & GitHub Setup
+- 🌱 Currently learning Python, Crypto & Investing
+- 🔭 Working on FractalFX, uploading of finished exercises & GitHub Setup //Kinda got cold
 - 👯 Always looking to collaborate on any learning adventure! :D
 - 🤔 Would love help with Clean Code & attaining knowledge on CyberSec!
 - 💬 Ask me anything! :^)
